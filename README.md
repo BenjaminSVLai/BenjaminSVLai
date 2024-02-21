@@ -7,4 +7,4 @@ As a dedicated developer, I wish to carve out a distinctive presence in the real
 <p> align="left"</p>
 
 <a href="https://www.instagram.com/b4nny_49/"> 
-    <img alt="Instagram Profile" src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
+    <img alt="Instagram Profile" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
