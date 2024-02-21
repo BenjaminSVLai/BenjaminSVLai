@@ -6,6 +6,8 @@ As a dedicated developer, I wish to carve out a distinctive presence in the real
 
 <p align="left">
 <a href="https://www.instagram.com/b4nny_49/"> 
-    <img alt="Instagram Profile" src="https://custom-icon-badges.demolab.com/badge/custom-hello-blue.svg?logo=paintbrush&logoColor=white">
+    <img alt="Instagram Profile" src="https://custom-icon-badges.demolab.com/badge/custom-hello-blue.svg?logo=mail&logoColor=white">
 </a>
 </p>
+
+
