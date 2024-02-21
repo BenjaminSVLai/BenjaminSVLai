@@ -6,11 +6,11 @@ As a dedicated developer, I wish to carve out a distinctive presence in the real
 
 <p align="left">
 <a href="https://www.instagram.com/b4nny_49/"> 
-    <img alt="Instagram Profile" src="https://custom-icon-badges.demolab.com/badge/Instagram-black.svg?logo=heart&logoColor=white">
+    <img alt="Instagram Profile" style="text-decoration: none;" src="https://custom-icon-badges.demolab.com/badge/Instagram-black.svg?logo=heart&logoColor=white">
 </a> 
 &nbsp
 <a href="https://www.linkedin.com/in/benjamin-lai1/"> 
-    <img alt="Linkedin Profile" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=link&logoColor=white">
+    <img alt="Linkedin Profile" style="text-decoration: none;" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=link&logoColor=white">
 </a>
 </p>
 
