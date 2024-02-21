@@ -7,9 +7,6 @@ As a dedicated developer, I wish to carve out a distinctive presence in the real
 <a href="https://www.linkedin.com/in/benjamin-lai1/">
   <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=link&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/benjamin-lai1/">
-  <img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-black.svg?logo=device-camera&logoColor=white"">
-</a>
 
 </p>
 
